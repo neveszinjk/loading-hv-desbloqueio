@@ -73,7 +73,7 @@ Acesse `http://localhost:3000/loading_desbloqueio.html`
 
 A animação possui 3 fases:
 
-1. **0-5 segundos**: Spinner girando com ícone de cadeado e mensagem "Desbloqueando cartão de crédito"
+1. **0-5 segundos**: Spinner girando com logo H e mensagem "Desbloqueando cartão de crédito"
 2. **5-5.5 segundos**: Transição suave
 3. **5.5-8 segundos**: Checkmark verde com mensagem "CARTÃO DE CRÉDITO DESBLOQUEADO!" (e para aqui, sem looping)
 
